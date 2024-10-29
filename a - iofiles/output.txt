@@ -1,0 +1,4 @@
+jp
+JPJP...
+<class 'type'>
+answer is: 2
